@@ -22,3 +22,4 @@ fields:
   label: image
 pages:
 - src/posts/this-is-a-new-episode.md
+- src/posts/this-is-a-new-post.md
